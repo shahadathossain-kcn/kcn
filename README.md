@@ -1,4 +1,4 @@
 # kcn
 This is my first Git Repository.
 <br>
-Author - Shahadat Hossain
+Author - Shahadat (Hossain)
